@@ -2,3 +2,46 @@
     margin: 0;
     padding: 0;
 }
+body{
+    min-height: 1350px;
+}
+.cabecalho{
+    width: 100%;
+    min-height: 330px;
+    border: 1px black solid;
+}
+.destaque{
+    width: 65%;
+    min-height: 460px;
+    border: 1px black solid;
+    float: left;
+    margin-top: 15px;
+}
+.lado {
+    width: 34%;
+    min-height: 1039px;
+    border: 1px black solid;
+    float: right;
+    margin-top: 15px;
+}
+.caixa1{
+    width: 32%;
+    min-height: 560px;
+    border: 1px black solid;
+    float: left;
+    margin-top: 15px;
+}
+.caixa2{
+    width: 32%;
+    min-height: 560px;
+    border: 1px black solid;
+    float: right;
+    margin-right: 13.5px;
+    margin-top: 15px;
+}
+.rodapé{
+    width: 100%;
+    min-height: 30px;
+    border: 1px black solid;
+    margin-top: 57%;
+}
