@@ -11,12 +11,68 @@ body{
     border: 1px black solid;
 }
 .destaque{
+    background-color: rgb(106, 106, 106);
     width: 65%;
     min-height: 460px;
     border: 1px black solid;
     float: left;
     margin-top: 15px;
 }
+<<<<<<< Updated upstream
+=======
+.top-destaques{
+    background-color: rgb(56, 52, 53);
+    color: white;
+    width: 100%;
+    height: 60px;
+}
+.top-destaques h1{
+    font-size: 40px;
+    padding: 5px 25px;
+}
+.side-destaques{
+    width: 65%;
+    height: 460px;
+    color: white;
+    float: right;
+}
+.side-destaques h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.side-destaques p{
+    margin-top: 20px;
+    letter-spacing: 0.01em;
+}
+.img-destaques{
+    width: 35%;
+    height: 460px;
+    float: left;
+}
+.img-destaques img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
+.destaque input[type="button"]{
+    border: none;
+    background-color: lightgrey;
+    float: right;
+    width: 100px;
+    height: 25px;
+    font-weight: bold;
+    position: relative;
+    bottom: 110px;
+    right: 25px;
+}
+.destaque input[type="button"]:hover{
+    border: 1px solid black;
+}
+/*Lado*/
+>>>>>>> Stashed changes
 .lado {
     width: 34%;
     min-height: 1039px;
@@ -24,6 +80,10 @@ body{
     float: right;
     margin-top: 15px;
 }
+<<<<<<< Updated upstream
+=======
+/*Caixa1*/
+>>>>>>> Stashed changes
 .caixa1{
     width: 32%;
     min-height: 560px;
@@ -31,6 +91,10 @@ body{
     float: left;
     margin-top: 15px;
 }
+<<<<<<< Updated upstream
+=======
+/*Caixa2*/
+>>>>>>> Stashed changes
 .caixa2{
     width: 32%;
     min-height: 560px;
@@ -39,6 +103,10 @@ body{
     margin-right: 13.5px;
     margin-top: 15px;
 }
+<<<<<<< Updated upstream
+=======
+/*Rodapé*/
+>>>>>>> Stashed changes
 .rodapé{
     width: 100%;
     min-height: 30px;
