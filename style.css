@@ -9,6 +9,25 @@ body{
     width: 100%;
     min-height: 330px;
     border: 1px black solid;
+    
+}
+#div{
+    background-color: green;
+    height: 310px;
+}
+header div ul{
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: row;
+    gap: 4%;
+}
+header div ul li{
+    list-style: none;
+    border-right: solid black 1px;
+    padding-right: 1%;
+}
+header ul li:last-child{
+border: none;
 }
 .destaque{
     width: 65%;
@@ -43,5 +62,5 @@ body{
     width: 100%;
     min-height: 30px;
     border: 1px black solid;
-    margin-top: 57%;
+    margin-top: 79%;
 }
