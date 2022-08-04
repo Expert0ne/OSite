@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 body{
     min-height: 1350px;
@@ -39,9 +41,17 @@ body{
     margin-right: 13.5px;
     margin-top: 15px;
 }
-.rodapé{
+.rodape{
     width: 100%;
     min-height: 30px;
     border: 1px black solid;
     margin-top: 57%;
+    background-image: url("imagem/grama.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rodape h4{
+    font-size: 20px;
+    margin-top: 4px;
 }
