@@ -45,3 +45,17 @@ body{
     border: 1px black solid;
     margin-top: 57%;
 }
+
+.ferramenta{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.ferramentas{
+    width: 150px;
+    height: 150px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
